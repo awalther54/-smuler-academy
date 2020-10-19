@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.banniere {
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    position: relative;
+    text-align: center;
+}
+
+.banniere img {
+    width: 80%;
+}
+
+.menu {
+    padding: 20px;
+    width: 90%;
+    text-align: right;
+}
+
+h1 {
+    font-size: 36px;
+    color: orange;
+    text-decoration: underline;
+    
+}
+
+.menu a {
+    margin-left: 50px;
+    font-size: 16px;
+    color: orange;
+    font-weight: bold;
+    text-shadow: white;
+}
+
+.menu a:hover {
+    font-size: 18px;
+}
+
+.content {
+    padding:15px;
+    padding-bottom:50px;
+    border-bottom: solid 1px orange;
+}
+
+.content table {
+    padding: 5px;
+    width: 95%;
+}
+
+.content table th {
+    padding: 5px;
+    font-size: 20px;
+    color: orange;
+    border: solid 1px white;
+}
+
+.content table td {
+    padding: 5px;
+    font-size: 20px;
+    border: solid 1px white;
+}
+
+.content table td li {
+    margin-top: 5px;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+.footer table {
+    width: 100%;
+}
+
+.footer img {
+    width: 30px;
+    margin-right: 50px;
+}
